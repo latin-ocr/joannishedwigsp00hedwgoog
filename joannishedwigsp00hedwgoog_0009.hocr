@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannishedwigsp00hedwgoog_0009.png"; bbox 0 0 4232 5385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1217 1291 2991 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1217 1291 2991 1569">
+     <span class='ocr_line' id='line_1_1' title="bbox 1217 1291 2991 1569; baseline -0.007 -32"><span class='ocrx_word' id='word_1_1' title='bbox 1217 1384 2028 1538; x_wconf 80' lang='lat' dir='ltr'>SECTIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 2145 1291 2831 1530; x_wconf 76' lang='lat' dir='ltr'><strong>PRIMA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2989 1567 2991 1569; x_wconf 0' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1729 1763 2329 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1729 1763 2329 1791">
+     <span class='ocr_line' id='line_1_2' title="bbox 1729 1763 2329 1791; baseline 0 3594"><span class='ocrx_word' id='word_1_4' title='bbox 1729 1763 2329 1791; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 628 1988 3434 2267">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 628 1988 3434 2267">
+     <span class='ocr_line' id='line_1_3' title="bbox 628 1988 3434 2147; baseline -0.006 -33"><span class='ocrx_word' id='word_1_5' title='bbox 628 2034 702 2114; x_wconf 86' lang='grc' dir='ltr'>Τ</span> <span class='ocrx_word' id='word_1_6' title='bbox 711 2032 855 2117; x_wconf 84' lang='grc' dir='ltr'><strong>ΑΒ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 876 2040 1021 2122; x_wconf 86' lang='lat' dir='ltr'><strong>UL</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1039 2038 1186 2120; x_wconf 82' lang='grc' dir='ltr'><strong>ΑΕ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1229 2034 1462 2118; x_wconf 78' lang='lat' dir='ltr'><strong>com</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1479 2082 1577 2102; x_wconf 92' lang='lat'>-</span> <span class='ocrx_word' id='word_1_11' title='bbox 1594 1988 2019 2117; x_wconf 83' lang='lat' dir='ltr'><strong>CCLXXV</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2034 2087 2059 2132; x_wconf 86' lang='lat'>,</span> <span class='ocrx_word' id='word_1_13' title='bbox 2108 2053 2281 2106; x_wconf 82' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2305 2025 2927 2147; x_wconf 38' lang='lat' dir='ltr'><strong>‘descriptionibus</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2965 2048 3114 2125; x_wconf 40' lang='lat' dir='ltr'><strong>per,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 3139 2018 3434 2101; x_wconf 79' lang='lat' dir='ltr'>eosdem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1656 2162 2415 2267; baseline -0.013 -15"><span class='ocrx_word' id='word_1_17' title='bbox 1656 2181 1996 2267; x_wconf 65' lang='lat' dir='ltr'>numeros</span> <span class='ocrx_word' id='word_1_18' title='bbox 2039 2162 2415 2262; x_wconf 72' lang='lat' dir='ltr'><strong>distinctis.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

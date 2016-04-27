@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannishedwigsp00hedwgoog_0089.png"; bbox 0 0 4232 5385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 917 1525 2968 1728">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 917 1525 2968 1728">
+     <span class='ocr_line' id='line_1_1' title="bbox 917 1525 2968 1728; baseline -0.001 -6"><span class='ocrx_word' id='word_1_1' title='bbox 917 1587 1720 1723; x_wconf 82' lang='lat' dir='ltr'>SECTIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1812 1590 2847 1728; x_wconf 85' lang='lat' dir='ltr'><strong>SECUNDA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2959 1525 2968 1532; x_wconf 66' lang='grc'><strong>”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1567 1963 2162 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1567 1963 2162 1978">
+     <span class='ocr_line' id='line_1_2' title="bbox 1567 1963 2162 1978; baseline 0 3407"><span class='ocrx_word' id='word_1_4' title='bbox 1567 1963 2162 1978; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 497 2182 3267 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 497 2182 3267 2288">
+     <span class='ocr_line' id='line_1_3' title="bbox 497 2182 3267 2288; baseline -0.002 -26"><span class='ocrx_word' id='word_1_5' title='bbox 497 2187 644 2264; x_wconf 90' lang='lat' dir='ltr'><strong>TA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 662 2189 720 2262; x_wconf 90' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_7' title='bbox 738 2188 807 2262; x_wconf 92' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_8' title='bbox 822 2189 885 2263; x_wconf 93' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_9' title='bbox 907 2190 972 2263; x_wconf 90' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 988 2189 1049 2261; x_wconf 93' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1098 2187 1553 2266; x_wconf 90' lang='lat' dir='ltr'><strong>CCLXXVI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1572 2233 1668 2246; x_wconf 92' lang='lat'><strong>——</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1688 2188 1897 2282; x_wconf 86' lang='lat' dir='ltr'>CCC,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1949 2216 2119 2262; x_wconf 83' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2163 2187 2764 2288; x_wconf 81' lang='lat' dir='ltr'><strong>descriptionibus</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2804 2211 2934 2284; x_wconf 83' lang='lat' dir='ltr'><strong>per</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2975 2182 3267 2259; x_wconf 83' lang='lat' dir='ltr'>eosdem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1501 2321 2251 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1501 2321 2251 2398">
+     <span class='ocr_line' id='line_1_4' title="bbox 1501 2321 2251 2398; baseline 0.005 -4"><span class='ocrx_word' id='word_1_18' title='bbox 1501 2348 1836 2397; x_wconf 80' lang='lat' dir='ltr'>numeros</span> <span class='ocrx_word' id='word_1_19' title='bbox 1880 2321 2251 2398; x_wconf 78' lang='lat' dir='ltr'><strong>distinctis·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
